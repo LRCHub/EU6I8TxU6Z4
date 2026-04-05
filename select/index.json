@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Who-ya Extended 「VIVID VICE」 MUSIC VIDEO TVアニメ『呪術廻戦』OPテーマ",
+  "base_artist": "Who-ya Extended",
+  "createdAt": "2026-04-05T11:45:49.816423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "VIVID VICE",
+      "artist": "Who-ya Extended",
+      "has_synced": true,
+      "path": "select/01_VIVID_VICE_Who-ya_Extended.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "VIVID VICE",
+      "artist": "Who‐ya Extended",
+      "has_synced": true,
+      "path": "select/02_VIVID_VICE_Who‐ya_Extended.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "VIVID VICE (Instrumental)",
+      "artist": "Who-ya Extended",
+      "has_synced": true,
+      "path": "select/03_VIVID_VICE_(Instrumental)_Who-ya_Extended.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vivid Vice (From \"Jujutsu Kaisen\")",
+      "artist": "Tricker",
+      "has_synced": false,
+      "path": "select/04_Vivid_Vice_(From__Jujutsu_Kaisen_)_Tricker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "VIVID VICE",
+      "artist": "Who-ya Extended",
+      "has_synced": true,
+      "path": "select/05_VIVID_VICE_Who-ya_Extended.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "VIVID VICE (From \"Jujutsu Kaisen\") [English Cover]",
+      "artist": "Divide Music",
+      "has_synced": true,
+      "path": "select/06_VIVID_VICE_(From__Jujutsu_Kaisen_)_[English_Cover]_Divide_Music.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "vivid vice",
+      "artist": "whoya extended",
+      "has_synced": true,
+      "path": "select/07_vivid_vice_whoya_extended.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "VIVID VICE (from \"Jujutsu Kaisen\")",
+      "artist": "Studio Yuraki",
+      "has_synced": true,
+      "path": "select/08_VIVID_VICE_(from__Jujutsu_Kaisen_)_Studio_Yuraki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "VIVID VICE",
+      "artist": "Who‐ya Extended",
+      "has_synced": true,
+      "path": "select/09_VIVID_VICE_Who‐ya_Extended.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vivid Vice",
+      "artist": "Who Ya Extended",
+      "has_synced": true,
+      "path": "select/10_Vivid_Vice_Who_Ya_Extended.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "VIVID VICE - From THE FIRST TAKE",
+      "artist": "Who-ya Extended",
+      "has_synced": true,
+      "path": "select/11_VIVID_VICE_-_From_THE_FIRST_TAKE_Who-ya_Extended.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vivid Vice (Jujutsu Kaisen)",
+      "artist": "Miura Jam BR",
+      "has_synced": true,
+      "path": "select/12_Vivid_Vice_(Jujutsu_Kaisen)_Miura_Jam_BR.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "VIVID VICE",
+      "artist": "Raon Lee",
+      "has_synced": true,
+      "path": "select/13_VIVID_VICE_Raon_Lee.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "VIVID VICE",
+      "artist": "Who-ya Extended",
+      "has_synced": true,
+      "path": "select/14_VIVID_VICE_Who-ya_Extended.lrc"
+    }
+  ]
+}
